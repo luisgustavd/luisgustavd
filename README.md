@@ -16,7 +16,7 @@
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div> 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="Python" src="https://www.flaticon.com/br/icone-gratis/python_1822899?term=python&page=1&position=5&origin=search&related_id=1822899">
 </div> 
 <div style="display: inline_block"><br>
     <img align="center" alt="PowerShell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white">
