@@ -11,7 +11,7 @@
 ### Tecnologias que eu utilizo 
 
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 <img align="left" height="80" width="80" src="">
 
