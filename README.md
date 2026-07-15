@@ -6,8 +6,6 @@
 
 # [![Blog](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gustavo-diniz-pereira-0b64411b4/)
 
-![Luis Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgustavd&show_icons=true&theme=transparent)
-
 ### Principais Tecnologias/Plataformas que eu uso 🎯
 
 <div class="container">
