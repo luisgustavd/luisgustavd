@@ -1,7 +1,7 @@
 ### Olá, meu nome é Luis Gustavo Diniz 👋👋👋
 ### 🙋🏾‍♂️ Sou: 
-#### * Graduado em <strong>Engenharia de Computação e Sistemas<strong> 👨🏾‍💻
-#### * Sou Programador e já trabalhei com <strong>Suporte e Redes de Computadores<strong> 🖥️
+#### * <strong>Engenheiro de Computação e Sistemas e Pós-graduando em Ciência de Dados e Estatística<strong> 👨🏾‍💻
+#### * Sou Programador e trabalho com <strong>Suporte e Tecnologia da Informação<strong> 🖥️
 #### * Possuo conhecimento em <strong>Ciência de Dados & Aprendizagem de Máquina<strong> 🤖
 
 # [![Blog](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gustavo-diniz-pereira-0b64411b4/)
